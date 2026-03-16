@@ -1,6 +1,6 @@
 -- Make a Script in ServerScriptService or Workspace and paste all of this in
 
--- Made by zdenekporajch123
+-- Made by MrSlushious - GitHub
 
 -- SETTINGS
 local BLOCK_SIZE = 1
